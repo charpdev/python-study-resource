@@ -1,1 +1,6 @@
-# python-study-resource
+# Python study resource
+
+Pandas 
+
+Cheat Sheet 
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
